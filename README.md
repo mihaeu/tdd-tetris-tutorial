@@ -106,7 +106,7 @@ Die Antworten sind teils subjektiv und lassen Raum für Diskussion. Evtl. merken
 **Nachfragen was besser ist: auf jeden Fall Branch Coverage, alles andere kann lügen**
 
 > Line Coverage prüft nur jedes Statement, aber würde z.B. bei einem if nicht prüfen ob dies einmal true und einmal false ist
-> Branch Coverage prüft in dem Beispiel dann ob das if einmal war und einmal falsch ist
+> Branch Coverage prüft in dem Beispiel dann ob das if einmal true und einmal false ist
 > Pfad Coverage würde alle möglichen Pfade abdecken, ist aber nicht möglich auf Grund von Rechenzeit
 
 3. Welche Art von Problemen zeigt Checkstyle auf?
