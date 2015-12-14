@@ -7,7 +7,8 @@
 ```bash
 git clone git@github.com:ci-sw2015/team-bowser.git
 
-# oder bei anderen Teams entsprechend hinten den Namen anpassen, aber ist auch in der Angabe so
+# oder bei anderen Teams entsprechend hinten den Namen anpassen, 
+# aber ist auch in der Angabe so
 git clone git@github.com:ci-sw2015/team-koopa-troopa.git
 ```
 
@@ -19,7 +20,8 @@ cd team-bowser
 # das schlägt fehl, aber dann sieht man alle Tasks/Goals
 mvn
 
-# richtig ist folgendes (dauert eine Weile, weil zum testen auch die Abhängigkeiten runtergeladen werden)
+# richtig ist folgendes (dauert eine Weile, weil zum testen 
+# auch die Abhängigkeiten runtergeladen werden)
 mvn test
 ```
 
